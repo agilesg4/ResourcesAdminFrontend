@@ -8,3 +8,4 @@ export class ComentarioModel {
           public estado: string
      ) { }
 }
+
